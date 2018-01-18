@@ -1,0 +1,23 @@
+﻿// Assembly MiBcrLib, Version 1.0.0.0
+
+[assembly: System.Reflection.AssemblyVersion("1.0.0.0")]
+[assembly: System.Runtime.CompilerServices.CompilationRelaxations(8)]
+[assembly: System.Runtime.CompilerServices.RuntimeCompatibility(WrapNonExceptionThrows=true)]
+[assembly: System.Diagnostics.Debuggable(System.Diagnostics.DebuggableAttribute.DebuggingModes.DisableOptimizations | System.Diagnostics.DebuggableAttribute.DebuggingModes.EnableEditAndContinue | System.Diagnostics.DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints | System.Diagnostics.DebuggableAttribute.DebuggingModes.Default)]
+[assembly: System.Reflection.AssemblyTitle("MiBcrLib")]
+[assembly: System.Reflection.AssemblyDescription("")]
+[assembly: System.Reflection.AssemblyConfiguration("")]
+[assembly: System.Reflection.AssemblyCompany("")]
+[assembly: System.Reflection.AssemblyProduct("MiBcrLib")]
+[assembly: System.Reflection.AssemblyCopyright("Copyright \x00a9  2018")]
+[assembly: System.Reflection.AssemblyTrademark("")]
+[assembly: System.Runtime.InteropServices.ComVisible(false)]
+[assembly: System.Reflection.AssemblyFileVersion("1.0.0.0")]
+[assembly: Android.Runtime.NamespaceMapping(Java="com.bcr.lib", Managed="Com.Bcr.Lib")]
+[assembly: Android.Runtime.NamespaceMapping(Java="com.lib.bcr", Managed="Com.Lib.Bcr")]
+[assembly: Android.Runtime.NamespaceMapping(Java="com.lib.bcr.utils", Managed="Com.Lib.Bcr.Utils")]
+[assembly: Android.Runtime.NamespaceMapping(Java="com.lib.utils", Managed="Com.Lib.Utils")]
+[assembly: Android.Runtime.NamespaceMapping(Java="com.mitac.cell.device.bcr", Managed="Com.Mitac.Cell.Device.Bcr")]
+[assembly: System.Runtime.Versioning.TargetFramework("MonoAndroid,Version=v6.0", FrameworkDisplayName="Xamarin.Android v6.0 Support")]
+[assembly: System.Security.Permissions.SecurityPermission(System.Security.Permissions.SecurityAction.RequestMinimum, SkipVerification=true)]
+
